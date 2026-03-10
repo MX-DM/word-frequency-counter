@@ -1,0 +1,17 @@
+A typical gasoline car engine explodes gasoline to make it spin.
+
+Inside an engine are pistons that move up and down inside a cylinder.
+As the engine turns the pistons first move down to suck in a mixture of air fuel, then move back up to compress it.
+
+The fuel is then ignited by a spark plug and this explosion forces the piston back down and creates power to spin the engine.
+The piston then moves back up pushing the burned fuel or exhaust out of the cylinder and the cycle repeats.
+
+Different cylinders are timed so that one is exploding while another is compressing.
+The pistons are all connected the the crank shaft which spins the pistons and is driven by the explosions.
+The crank shaft is attached to your transmission which in turn drives the wheels.
+
+At the top of cylinders, called the cylinder head, are valves that open and close to let fuel and air in, and exhaust out at the right times.
+This is driven by a camshaft, which is in turn driven by the crankshaft via a chain or gears.
+Test for composite words: don't don't don't don't don't
+
+To get the whole process started the motor is spun by an electric motor called the starter until the gas cycle can run on its own.
